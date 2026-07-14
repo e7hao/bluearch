@@ -12,4 +12,3 @@ pub fn show() {
     println!("{}", "          BlueArch Assistant".bold());
     println!("{}", "          Hello, Sensei.".bright_white());
 }
-
